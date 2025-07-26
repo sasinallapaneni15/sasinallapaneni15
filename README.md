@@ -3,7 +3,7 @@
 
 🎯 **About Me** 
 
-B.Tech in Computer Science and Engineering | Passionate about Data Analytics and Software Engineer.
+I am a B.Tech graduate in Computer Science and Engineering.Passionate about Data Analytics and Software Engineer.
 I am a dedicated and curious Computer Science graduate with a strong interest in Data Analytics,and Software Engineering. I’ve gained hands-on experience through academic projects and internships, where I worked on real-world applications like EV battery life prediction and fake news detection using Python, Streamlit, and machine learning models.
 As a beginner software engineer, I’m continuously learning and exploring new technologies to build impactful solutions. I enjoy problem-solving, working with data, and turning ideas into functional applications.
 

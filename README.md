@@ -27,6 +27,7 @@ As a beginner software engineer, I’m continuously learning and exploring new t
 - **Python Foundation Certification** – Infosys Springboard
 - **Data Visualization: Empowering Business with Effective Insights** – Tata Consultancy Services
   
+  
 
 ---
 
